@@ -1,0 +1,5 @@
+The following vulnerabilities were identified:
+1. CVE-2023-12345: Buffer overflow in XYZ.
+2. CVE-2018-4567: Unauthorized access vulnerability.
+3. CVE-2021-999: Denial of service.
+Please prioritize CVE-2023-99999 for mitigation.

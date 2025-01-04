@@ -1,0 +1,16 @@
+C:\Windows\Temp\malware.exe
+D:\Users\Public\hidden-folder\payload.dll
+C:\Documents and Settings\Admin\evil-script.tmp
+E:\malicious-folder\subfolder\trojan.bin
+Z:\\\\Invalid-backslash\\folder\\file.exe
+C:\Program Files\TrustedApp\app.exe
+F:\another-folder\virus.bat
+C:\Windows\System32\drivers\etc\hosts
+G:\fake-folder\malicious.bat
+C:\Invalid|Path\illegal.txt
+H:\valid-folder\subfolder\malware.scr
+C:\AnotherInvalidPath<test>\badfile.exe
+I:\yet-another-folder\dangerous.vbs
+C:\Invalid:Path\badfile.dll
+J:\safe-folder\subfolder\goodfile.txt
+C:\Invalid*Path\badfile.sys

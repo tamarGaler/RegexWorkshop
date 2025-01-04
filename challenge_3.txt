@@ -1,0 +1,5 @@
+[INFO] Server started  
+[error] Connection timeout  
+[ERROR] Unauthorized access
+[WARN] current has no upstream branch
+[error] Could not read from remote repository

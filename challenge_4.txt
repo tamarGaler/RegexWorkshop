@@ -1,0 +1,6 @@
+malware.exe  
+dll.library.log
+Some-weird-file.dll
+This_is_a_good_file.txt
+This_is_not.exe.file
+exe.dll.not
